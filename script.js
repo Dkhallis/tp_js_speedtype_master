@@ -50,7 +50,6 @@ function endGame() {
     alert("Temps écoulé !"); 
 }
 
-
 /* 3/ Compare ce que tape, l'utilisateur avec le texte affiché.*/
 
 
